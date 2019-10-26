@@ -1,0 +1,76 @@
+.Icon{
+    background-color: #86A51B;
+    font-family: 'Roboto', sans-serif;
+}
+#image{
+    margin-right: 30vw;
+    padding-left: 35px
+}
+.backg{
+    background-image: url(../CLASS1/image/headphones_books_education_121501_1600x1200.jpg);
+    background-position: center;
+    padding-top:150px
+}
+.tell-me{
+    background-color: #86A51B;
+}
+.tell{
+    background-color: #86A51B !important;
+}
+#in{
+    padding-bottom: 70px;
+}
+#all{
+    padding-bottom: 140px;
+}
+.name{
+    color: #86A51B;
+}
+#two{
+    width:12%;
+}
+#henry{
+    width:160px
+}
+.pict{
+    list-style-type: none;
+    display: inline-block;
+}
+li{
+    list-style-type: none;
+}
+.biggy{
+    background-color:#2D3E50;
+    color: #86A51B
+}
+ul li a{
+    color: white;
+}
+.yes{
+    position: relative;
+}
+#sign{
+    margin-left: -77px;
+    margin-top: 2px;
+    border-radius: 5px;
+    background-color: #86A51B;
+    color: white; 
+}
+.top    {
+    width: 300px;
+    padding-bottom: 6px;
+ padding-top: 6px;
+    padding-left: 4px;
+    border-radius: 3px
+}
+.paint{
+    background-color: #86A51B !important
+}
+#rat{
+    letter-spacing: 4px
+}
+#only{
+    border: 1px solid #86A51B;
+    border-radius: 5px;
+    padding: 6px 10px
+}
